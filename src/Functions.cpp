@@ -10,8 +10,8 @@ void Interface(){
 
 cout << " \033[01;93m __          __        \033[96m____            _                        " << endl;
 cout << " \033[01;93m \\ \\        / /       \033[96m|  _ \\          | |                       " << endl;
-cout << " \033[01;93m  \\ \\  /\\  / /_ _ _ __\033[96m| |_) | __ _ ___| |__    By: Lucas          " << endl;
-cout << " \033[01;93m   \\ \\/  \\/ / _` | '__\033[96m|  _ < / _` / __| '_ \\     Nathaniel                " << endl;
+cout << " \033[01;93m  \\ \\  /\\  / /_ _ _ __\033[96m| |_) | __ _ ___| |__    By: Kali          " << endl;
+cout << " \033[01;93m   \\ \\/  \\/ / _` | '__\033[96m|  _ < / _` / __| '_ \\     Nathalie                " << endl;
 cout << " \033[01;93m  _ \\  /\\  / (_| | |  \033[96m| |_) | (_| \\__ \\ | | |\033[31m_  _    ___  _  __ " << endl;
 cout << " \033[01;93m | | \\/ |\\/ \\__,_|_|  \033[96m|____/ \\__,_|___/_| |_\033[31m| || |  / _ \\| |/ / " << endl;
 cout << " \033[01;93m | |__| | __ _ _ __ ___  _ __ ___   ___ _ __\033[31m| || |_| | | | ' /  " << endl;
@@ -119,7 +119,7 @@ void part(string& str, char delim, vector<string>& pieces){
 }
 /**
   *@brief Principal função do jogo
-  Aqui ocorre toda a jogabilidade do game, qualquer duvida, mande um e-mail para: lucasnataniel@hotmail.com
+  Aqui ocorre toda a jogabilidade do game, qualquer duvida, mande um e-mail para: kalinathalie@outlook.com
   *@param your_list sua lista
   *@param enemy_list lista inimiga
   */

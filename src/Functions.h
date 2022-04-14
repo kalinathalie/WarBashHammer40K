@@ -40,7 +40,7 @@ List* ReadRace(string address);
 void part(string& str, char delim, vector<string>& pedacos);
 /**
   *@brief Principal função do jogo
-  Aqui ocorre toda a jogabilidade do game, qualquer duvida, mande um e-mail para: lucasnataniel@hotmail.com
+  Aqui ocorre toda a jogabilidade do game, qualquer duvida, mande um e-mail para: kalinathalie@outlook.com
   *@param your_list sua lista
   *@param enemy_list lista inimiga
   */

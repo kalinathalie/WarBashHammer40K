@@ -16,7 +16,7 @@
 
 >A resolução mínima do terminal para o programa rodar perfeitamente é 75x25
 
-Arquivo no git: <https://github.com/lucasnathaniel/WarBashHammer40K>
+Arquivo no git: <https://github.com/kalinathalie/WarBashHammer40K>
 
 Há uma sobrecarga da função Insert nos arquivos List.h/List.cpp
 
@@ -31,4 +31,4 @@ $ cd bin/ && make && cd ..
 ```
 $ ./bin/WarBashHammer40K
 ```
-By: Lucas Nathaniel
+By: Kali Nathalie

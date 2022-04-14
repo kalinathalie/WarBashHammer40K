@@ -3,7 +3,7 @@
   *@file main.cpp
   *@version 1.0
   *@date 30/05/2017
-  *@author Lucas Nathaniel
+  *@author Kali Nathalie
   *@brief principal funcao do programa
   *@section LICENSE
   *
